@@ -3,7 +3,7 @@ date: 2019-08-02
 title: "Get your guitar tuned online & for free"
 description: >
   Online guitar tuner, audio files for each individual string, guides for 
-  newcomers to the guitar and pro tips.
+  newcomers to the guitar & pro tips.
 layout: single
 comments: true
 classes: wide
@@ -13,8 +13,8 @@ slug: "index"
 ---
 
 Using your computer, tablet or smartphone's microphone, this online tuner works 
-like a regular electronic tuner. To get started, just click on the bottom left 
-banner, and then grant the browser access to the microphone (see <a 
+like a regular electronic tuner. To get started, simply click on the bottom 
+left banner, and then grant the browser access to the microphone (see <a 
 href="https://www.youtube.com/watch?v=QR9re874Sik" 
 target="_blank">tutorial</a>).
 
@@ -23,8 +23,8 @@ should either be amplified or plugged into your device so that the tuner can
 figure out what notes are being played.
 
 As the page ['Tuning a guitar for dummies'][dummies] explains, the notes that 
-you should see, from the lowest string to the thinnest, are: **E, A, D, G, B, 
-E**.
+you should see on the tuner, from the lowest string to the thinnest, are: **E, 
+A, D, G, B, E**.
 
 <iframe allow="microphone" style="height: 500px; width: 100%; border: 0;" src="https://accordeur.accordersaguitare.com/"></iframe>
 
