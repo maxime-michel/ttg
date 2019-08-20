@@ -18,13 +18,13 @@ figure { flex-direction: column; }
 
 All musical instruments need to be tuned on a regular basis. This is true for 
 guitars, [but also for pianos, harps, violins, etc.][other-instruments]. Every 
-single guitar string is under a certain tension that ranges from 6 to 10 kg 
-(pounds?), and that energy tends to dissipate over time, making the guitar out 
-of tune.
+single guitar string is under a certain tension that ranges from 15 to 20 
+pounds, and that energy tends to dissipate over time, making the guitar out of 
+tune.
 
 On top of that, humidity and temperature variations have an influence on wood 
 and make it swell or shrink, which also leads to small changes in the 
-instruments's setup. This is why a guitar should *always* be tuned before it's 
+instrument's setup. This is why a guitar should *always* be tuned before it's 
 played.
 
 ## A440
@@ -37,8 +37,8 @@ To tune a guitar string with such a reference, you have to turn the
 corresponding mechanic (the knob in which the string is eventually wrapped at 
 the top of the neck) so that the note A on the string matches the external 
 reference. This might be hard to do when starting out, this is why I would 
-advise to consider [getting a tuner][which-tuner-should-i-buy]. But it is 
-important to understand the process.
+advise [getting a tuner][which-tuner-should-i-buy] instead. But it is a process 
+worth understanding.
 
 ## A guitar's strings
 
@@ -46,22 +46,22 @@ important to understand the process.
 image_path="https://www.accordersaguitare.com/img/manche-guitare-notes-aigu-grave.png" 
 caption="A guitar neck with string names" %}
 
-The vast majority of guitars use six strings that are tuned in a standard E 
+The vast majority of guitars use six strings that are tuned in standard E 
 tuning. Each string set is made out of three low strings, and three high 
 strings. The lowest string is E, which means that when it is played without any 
-left hand fretting ('open'), the note produced is an E. Here's the list of the 
-strings in the same order as on your guitar:
+left hand fretting (we say 'open'), the note produced is an E. Here's the list 
+of the strings in the same order as on your guitar:
 
-- low E
-- A
-- D
-- G
-- B
 - high E
+- B
+- G
+- D
+- A
+- low E
 
 ## The notes on the neck
 
-Once any note on your guitar is aligned with A440 (the A at the 5th fret of the 
+Once a note on your guitar is aligned with A440 (the A at the 5th fret of the 
 high E string for instance), then all the string will be in tune, no matter 
 whether you're playing a D at the 10th fret, a C# at the 9th fret, or an F at 
 the first fret. You'll therefore be able to use this string as a reference to 
@@ -71,7 +71,7 @@ the first string.
 {% include figure alt="All notes on the neck" caption="All notes on the neck" 
 image_path="https://www.accordersaguitare.com/img/manche-guitare-notes.png" %}
 
-## La méthode classique
+## The classical approach
 
 The classical approach is indeed exactly about tuning the A on the 5th fret of 
 the high E string with a reference A. Then, the high E string is played open, 

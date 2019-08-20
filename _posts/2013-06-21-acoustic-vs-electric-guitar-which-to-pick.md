@@ -10,8 +10,8 @@ header:
   overlay_image: https://www.accordersaguitare.com/img/differentes-guitares.jpg
 ---
 
-Among the questions that newcomers to the instrument ask when they're starting 
-out, are the two following:
+Among the most frequent questions that newcomers to the instrument ask when 
+they're starting out, are the two following:
 
 - should I learn to play on an electric or acoustic guitar?
 - should I really learn to play with an acoustic guitar eventhough I plan on 
@@ -42,10 +42,10 @@ Acoustic guitars can again be split into two main categories:
 Steel-string guitars generally have a larger body, made out of bright, 
 yellowish wood. Most importantly, they use steel strings, which produce a 
 sharp, metallic sound. Classical guitars also have three steel strings (the 
-three low strings), but the three high strings are made out of nylon, which 
-have a mellow sound. Types on music played on those two types of guitars 
-include classical music and latin music for classical guitars; rock, pop or 
-blues for steel-string guitars.
+three low strings), but the three highs are made out of nylon, which have a 
+mellow sound. Genres of music played on those two types of guitars include 
+classical music and latin music for classical guitars; rock, pop or blues for 
+steel-string guitars.
 
 {% include figure alt="A steel-string guitar" caption="A steel-string guitar" 
 image_path="https://www.accordersaguitare.com/img/guitare-folk.jpg" %}
@@ -66,15 +66,16 @@ Here's how a classical guitar sounds:
 ## Electric guitars
 
 Electric guitars have a full body that's paired with an electronic setup made 
-of pickups that are located below the strings in order to capture the signal as 
-well as tone and volume knobs. Played on their own, they're really quiet. A 
-guitar player might be able to hear himself play in a quiet room, but this 
-isn't the sound anybody is looking for. The sound will have to be amplified, 
-and the amp plays a big role in the final tone.
+of pickups that are located below the strings in order to capture the signal. 
+They also feature tone and volume knobs. Played on their own, they're really 
+quiet. A guitar player might be able to hear himself if he plays in a quiet 
+room, but this isn't the sound anybody is looking for. The sound will have to 
+be amplified, and the amp plays a big role in the final tone.
 
 Sound effects such as reverberation, distortion, chorus, etc. can also be added 
-to an electric guitar's sound, which allows great flexibility. Electric guitars 
-can by the way be heard in all genres: rock, pop, funk, metal, jazz, etc.
+to an electric guitar's sound, which allows for great flexibility. Electric 
+guitars can by the way be heard in all genres: rock, pop, funk, metal, jazz, 
+etc.
 
 Electric guitars have thinner strings and necks, and so this is less demanding 
 of a beginner player's hand. It hurts less. That being said, the various 
@@ -90,8 +91,8 @@ Here's how an electric guitar sounds:
 
 ## Final words
 
-At the end of the day, if you're a beginning guitar player then you should 
-consider what style of music you like the most. Then you'll truly enjoy the 
-process, and difficulties won't bring you to a halt. If you're on a budget, an 
-acoustic guitar might be a good choice considering that there's no amp nor 
-cables to buy on top of the guitar. Good luck!
+At the end of the day, you should mostly think about what genre of music you 
+like the most, and get the guitar that is used to play that music. Then you'll 
+truly enjoy the process, and difficulties won't bring you to a halt. If you're 
+on a budget, an acoustic guitar might be a good choice considering that there's 
+no amp nor cables to buy on top of the guitar. Good luck!

@@ -35,7 +35,7 @@ If you:
 - are a beginner,
 - aren't willing to invest a lot,
 - are looking for a dead simple solution,
-- would like to tuner your guitar in calm as well as noisy settings,
+- would like to tune your guitar in calm as well as noisy settings,
 - own an acoustic guitar but are considering an electric guitar (or vice 
 versa),
 
@@ -58,8 +58,8 @@ If you:
 electro-acoustic guitars) *and* with a microphone,
 - also own or consider owning a bass,
 
-Then the [Korg GA1][korg-ga1] tuners are a good choice as far as a'advanced 
-tuners' are concerned. While not as lightweight as clip tuners, they remain 
+Then the [Korg GA1][korg-ga1] tuners is a good choice as far as 'advanced 
+tuners' are concerned. While not as lightweight as clip tuners, it remains 
 portable (slip easily in a case), and very affordable.
 
 ### Official demo
@@ -77,7 +77,7 @@ If you:
 - plan on moving while you play (which would be cumbersome with a clip tuner),
 - want your tuner to be handled with your feet like your other effect pedals,
 - do not want to have a tuner running all the time on your amp, which would 
-drains its batteries,
+drain its batteries,
 - do not want to be plugging the cable from the amp inside the tuner and back 
 every time you need a tune up (waste of time),
 

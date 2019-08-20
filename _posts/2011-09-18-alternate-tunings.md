@@ -18,13 +18,13 @@ Page][page] from Led Zeppelin, in the tune Kashmir.
 
 Jimi Hendrix was a legendary guitar player with a terrific sound that could be 
 identified in just a few notes. Fourty years after his first hits, many guitar 
-players still admire him and try to learn his tunes or get closer to his tone.
+players still admire him and try to learn his tunes and get closer to his tone.
 
 It is worth mentioning here than on top of being a left-hander (but playing on 
-regular right-hander guitars), Hendrix used to play in Eb tuning, which is 
+regular right-handed guitars), Hendrix used to play in Eb tuning, which is 
 different to the standard E tuning. He started tuning so early in his career 
 due to the fact that he was playing in rhythm'n'blues clubs with horn players, 
-and they tend to play tunes in the keys of Eb or Bb most of the time.
+and those tend to play tunes in the keys of Eb or Bb most of the time.
 
 This tuning is fairly similar to standard tuning, since they are in fact the 
 same tuning, with a semitone difference. To tune a guitar in Eb, simply lower 
@@ -47,6 +47,10 @@ A huge Hendrix fan, Stevie Ray Vaughan also liked to play in E flat tuning. But
 'SRV' even took it further: he's also gone for very thick strings (13-58 vs. 
 standard 10-46), which helped him reach his beefy sound.
 
+#### Example song
+
+{% include video id="0vo23H9J8o8" provider="youtube" %}
+
 ### Be careful!
 
 When switching your guitar to a new tuning, you're changing the force being 
@@ -57,9 +61,9 @@ who'll let you know if your neck should be adjusted for that.
 
 ## Jimmy Page's tuning in the song Kashmir
 
-Jimmy Page is one of the top guitar players from the 70's, he was in demand in 
-London studios, known as one of the 10 best guitar players in the world, and 
-founding member of one of the most known rock bands: Led Zepplin. In Kashmir, 
+Jimmy Page is one of the top guitar players from the 70's, he was sought after 
+in London studios, known as one of the 10 best guitar players in the world, and 
+founding member of one of the most known rock bands: Led Zeppelin. In Kashmir, 
 one of the band's most iconic songs, it is the guitar riff's exotic power 
 (non-standard tuning) that give the song such an edge.
 
@@ -83,11 +87,11 @@ The final result is the following, from the lowest string to the highest:
 
 ### A bit of music theory
 
-This tuning is called Dsus4 open. A tuning is said to be open when it helps to 
-play particular chords. In this case, it is Dsus4 that can be played easily: it 
-is simply a matter of playing the open strings. We could also play *any* sus4 
-chord by playing a bar chord at other frets: Esus4 at the 2nd fret (`222222`), 
-Fsus4 at the 3rd fret (`333333`), etc.
+This tuning is called Dsus4 open. A tuning is said to be open when chords can 
+be played by simply strumming the open strings. In this case, it is Dsus4 that 
+can be played easily. We could also play *any* sus4 chord by playing a bar 
+chord at other frets: Esus4 at the 2nd fret (`222222`), Fsus4 at the 3rd fret 
+(`333333`), etc.
 
 A chord is said to be sus4 when it has a fourth and a fifth, but no third. With 
 Dsus4, the notes are: D (tonic), G (fourth) and A (fifth); which are indeed the 
