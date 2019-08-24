@@ -23,7 +23,7 @@ period is when most people quit, it is important to be motivated enough to go
 through obstacles.
 
 There's many different types of guitars (some of them even are hybrids), but, 
-put simply, there's two main categories:
+put simply, there are two main categories:
 
 - acoustic guitars
 - electric guitars
@@ -92,7 +92,7 @@ Here's how an electric guitar sounds:
 ## Final words
 
 At the end of the day, you should mostly think about what genre of music you 
-like the most, and get the guitar that is used to play that music. Then you'll 
-truly enjoy the process, and difficulties won't bring you to a halt. If you're 
-on a budget, an acoustic guitar might be a good choice considering that there's 
-no amp nor cables to buy on top of the guitar. Good luck!
+like the most, and get the kind of guitar that is used to play that music. Then 
+you'll truly enjoy the process, and difficulties won't bring you to a halt. If 
+you're on a budget, an acoustic guitar might be a good choice considering that 
+there's no amp nor cables to buy on top of the guitar. Good luck!

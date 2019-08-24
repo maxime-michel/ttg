@@ -17,10 +17,9 @@ figure { flex-direction: column; }
 </style>
 
 All musical instruments need to be tuned on a regular basis. This is true for 
-guitars, [but also for pianos, harps, violins, etc.][other-instruments]. Every 
-single guitar string is under a certain tension that ranges from 15 to 20 
-pounds, and that energy tends to dissipate over time, making the guitar out of 
-tune.
+guitars, [but also for pianos, harps, violins, etc.][other-instruments] Every 
+single guitar string is under a tension that ranges from 15 to 20 pounds, and 
+that energy tends to dissipate over time, making the guitar out of tune.
 
 On top of that, humidity and temperature variations have an influence on wood 
 and make it swell or shrink, which also leads to small changes in the 
@@ -50,19 +49,19 @@ The vast majority of guitars use six strings that are tuned in standard E
 tuning. Each string set is made out of three low strings, and three high 
 strings. The lowest string is E, which means that when it is played without any 
 left hand fretting (we say 'open'), the note produced is an E. Here's the list 
-of the strings in the same order as on your guitar:
+of strings in the same order as on your guitar:
 
-- high E
-- B
-- G
-- D
-- A
 - low E
+- A
+- D
+- G
+- B
+- high E
 
 ## The notes on the neck
 
 Once a note on your guitar is aligned with A440 (the A at the 5th fret of the 
-high E string for instance), then all the string will be in tune, no matter 
+high E string for instance), then the whole string will be in tune, no matter 
 whether you're playing a D at the 10th fret, a C# at the 9th fret, or an F at 
 the first fret. You'll therefore be able to use this string as a reference to 
 tune other strings against, the same way you used A440 as a reference to tune 
@@ -111,8 +110,8 @@ image_path="https://www.accordersaguitare.com/img/manche-guitare-la.png" %}
 
 Congratulations, you now know how to tune a guitar! Although it can be 
 frustrating for a guitar beginner, it is an excellent exercise in order to 
-improve your musical ear. To tune faster and with more precision, you can look 
-into [purchasing a tuner][which-tuner-should-i-buy].
+improve your musical ear. To tune faster and with more precision, you should 
+look into [purchasing a tuner][which-tuner-should-i-buy].
 
 [tuning-fork]:http://bit.ly/diapason-wittner
 [other-instruments]:/tune-other-common-instruments/

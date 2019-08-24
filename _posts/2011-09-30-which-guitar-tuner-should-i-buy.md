@@ -1,7 +1,7 @@
 ---
 title: "Which guitar tuner should I buy?"
 excerpt: >
-  Features and demonstration of the Korg tuners GA1, PC2 as, well as Pitchblack 
+  Features and demonstration of the Korg tuners GA1, PC2 as well as Pitchblack 
   (for electric guitars).
 header:
   teaser: https://www.accordersaguitare.com/img/mecaniques-guitare_300.jpg
@@ -59,7 +59,7 @@ electro-acoustic guitars) *and* with a microphone,
 - also own or consider owning a bass,
 
 Then the [Korg GA1][korg-ga1] tuners is a good choice as far as 'advanced 
-tuners' are concerned. While not as lightweight as clip tuners, it remains 
+tuners' are concerned. While not as lightweight as clip tuners, they remain 
 portable (slip easily in a case), and very affordable.
 
 ### Official demo

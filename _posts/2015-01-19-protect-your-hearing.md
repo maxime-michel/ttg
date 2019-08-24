@@ -1,5 +1,5 @@
 ---
-title: "Protect your hearing"
+title: "Protect your hearing!"
 excerpt: >
   Introduction to the various types of earplugs on the market, and tips on how 
   to use them.
@@ -12,13 +12,13 @@ header:
 
 You might already have heard of tinnitus through somebody who suffers from it. 
 Some people hear constant background noise when in fact there's no actual 
-sound. They're generally high-pitched whistles. They might be due to a number 
+sound. Those are generally high-pitched whistles. They might be due to a number 
 of different conditions, but in music the frequent cause is long exposure to 
 overly loud volumes. Top guitar players such as Neil Young, Jeff Beck or Eric 
 Clapton suffer from them. There's three things you need to know:
 
-- tinnitus can happen to anybody, and only a single extreme exposure can become 
-a handicap for the rest of your life,
+- tinnitus can happen to anybody, and a single extreme exposure can become a 
+handicap for the rest of your life,
 - everybody's sensitivity to noise is different and it is important to listen 
 to one's body rather than friends at the same concert or rehearsal (for 
 instance),
