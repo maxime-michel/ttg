@@ -95,7 +95,7 @@ Esus4 at the 2nd fret (`222222`), Fsus4 at the 3rd fret (`333333`), etc.
 
 A chord is said to be sus4 when it has a fourth and a fifth, but no third. With 
 Dsus4, the notes are: D (tonic), G (fourth) and A (fifth); which are indeed the 
-notes of the open strings!
+notes of that tuning's open strings!
 
 ### Example song
 
