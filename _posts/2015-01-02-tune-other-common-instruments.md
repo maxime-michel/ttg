@@ -70,5 +70,5 @@ reason why professional piano technicians learn the job in school and charge
 for their service. They have an experimented ear and can feel how the 
 instrument's going to react.
 
-{% include figure alt="Un homme qui joue un piano à queue" caption="Un piano à 
-queue" image_path="https://www.accordersaguitare.com/img/homme-piano.jpg" %}
+{% include figure alt="A man playing a grand piano" caption="A grand piano" 
+image_path="https://www.accordersaguitare.com/img/homme-piano.jpg" %}

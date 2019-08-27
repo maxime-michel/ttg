@@ -24,8 +24,8 @@ his tone.
 It is worth mentioning here than on top of being a left-hander (but playing on 
 regular right-handed guitars), Hendrix used to play in Eb tuning, which is 
 different to the standard E tuning. He started tuning so early in his career 
-due to the fact that he was playing in rhythm'n'blues clubs with horn players, 
-and those tend to play tunes in the keys of Eb or Bb most of the time.
+due to the fact that he was playing in rhythm and blues clubs with horn 
+players, and those tend to play tunes in the keys of Eb or Bb most of the time.
 
 Eb tuning is fairly similar to standard tuning, since they are in fact the same 
 tuning, with a semitone difference. To tune a guitar in Eb, simply lower each 
@@ -88,11 +88,10 @@ The final result is the following, from the lowest string to the highest:
 
 ### A bit of music theory
 
-This tuning is called Dsus4 open. A tuning is said to be open when chords can 
-be played by simply strumming the open strings. In this case, it is Dsus4 that 
-will be heard. We could also play *any* sus4 chord by playing a bar chord at 
-other frets: Esus4 at the 2nd fret (`222222`), Fsus4 at the 3rd fret 
-(`333333`), etc.
+This tuning is called Dsus4 open. A tuning is said to be open when a particular 
+chord can be played by simply strumming the open strings. In this case, Dsus4. 
+But in fact *any* sus4 chord could be played with a bar chord at other frets: 
+Esus4 at the 2nd fret (`222222`), Fsus4 at the 3rd fret (`333333`), etc.
 
 A chord is said to be sus4 when it has a fourth and a fifth, but no third. With 
 Dsus4, the notes are: D (tonic), G (fourth) and A (fifth); which are indeed the 

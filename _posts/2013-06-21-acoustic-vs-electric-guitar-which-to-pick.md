@@ -79,7 +79,7 @@ etc.
 
 Electric guitars have thinner strings and necks, and so this is less demanding 
 of a beginner player's hand. It hurts less. That being said, the various 
-settings that can be made on the instrument and on the amplifier can be very 
+settings that can be tweaked on the instrument and on the amplifier can be very 
 confusing when starting out.
 
 {% include figure alt="An electric guitar" caption="An electric guitar"
