@@ -1,6 +1,6 @@
 ---
 date: 2019-08-02
-title: "Get your guitar tuned online & for free"
+title: "3 Ways to Tune Your Guitar in 5 Minutes"
 description: >
   Online guitar tuner, audio files for each individual string, guides for 
   newcomers to the guitar & pro tips.
