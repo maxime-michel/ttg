@@ -83,9 +83,6 @@ footer:
     - label: "Privacy policy"
       icon: "fas fa-fw fa-link"
       url: "/privacy-policy/"
-    - label: "Accorder sa guitare"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.accordersaguitare.com/"
 
 
 # Reading Files
