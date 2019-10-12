@@ -73,6 +73,9 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:maxime@accordersaguitare.com
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: https://www.youtube.com/channel/UCExG5xuiBvGxSuuJNTj3wUw
 
 # Site Footer
 footer:
@@ -80,6 +83,9 @@ footer:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:maxime@accordersaguitare.com
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: https://www.youtube.com/channel/UCExG5xuiBvGxSuuJNTj3wUw
     - label: "Privacy policy"
       icon: "fas fa-fw fa-link"
       url: "/privacy-policy/"
