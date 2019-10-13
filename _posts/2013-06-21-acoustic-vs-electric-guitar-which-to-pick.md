@@ -8,6 +8,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: https://www.accordersaguitare.com/img/differentes-guitares.jpg
+alt_slug: guitare-acoustique-ou-electrique-que-choisir
 ---
 
 Among the most frequent questions that newcomers to the instrument ask when 

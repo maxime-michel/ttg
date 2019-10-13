@@ -8,6 +8,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: https://www.accordersaguitare.com/img/livre-partition.jpg
+alt_slug: l-accordage-explique-aux-debutants
 ---
 
 <style>

@@ -8,6 +8,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: https://www.accordersaguitare.com/img/touches-piano.jpg
+alt_slug: accorder-d-autres-instruments
 ---
 
 Although it is mostly guitar players who visit this website, the tuner can be 

@@ -8,6 +8,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: https://www.accordersaguitare.com/img/guitare-folk-veste-cuir.jpg
+alt_slug: accordages-alternatifs
 ---
 
 In today's article I'll be going over famous alternate tunings used by guitar 

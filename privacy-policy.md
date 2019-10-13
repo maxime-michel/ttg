@@ -7,6 +7,7 @@ description: >
 layout: single
 classes: wide
 author_profile: true
+alt_slug: politique-de-confidentialite
 ---
 
 Your privacy is of utmost importance to me. I don't mean this as an empty 

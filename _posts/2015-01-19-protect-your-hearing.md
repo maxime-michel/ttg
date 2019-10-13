@@ -8,6 +8,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: https://www.accordersaguitare.com/img/salle-concert.jpg
+alt_slug: protegez-vos-oreilles
 ---
 
 You might already have heard of tinnitus through somebody who suffers from it. 
