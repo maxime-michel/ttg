@@ -1,3 +1,11 @@
-<link rel="alternate" hreflang="en" href="https://www.tunethatguitar.com" />
-<link rel="alternate" hreflang="fr" href="https://www.accordersaguitare.com" />
-<link rel="alternate" hreflang="x-default" href="https://www.accordersaguitare.com" />
+{% if page.slug != "index" %}
+  {% assign page_slug = page.slug | append: '/' %}
+  {% assign alt_slug = page.alt_slug | append: '/' %}
+{% else %}
+  {% assign page_slug = "" %}
+  {% assign alt_slug = "" %}
+{% endif %}
+
+<link rel="alternate" hreflang="en" href="https://www.tunethatguitar.com/{{ page_slug }}" />
+<link rel="alternate" hreflang="fr" href="https://www.accordersaguitare.com/{{ alt_slug }}" />
+<link rel="alternate" hreflang="x-default" href="https://www.accordersaguitare.com/{{ alt_slug }}" />
