@@ -9,6 +9,13 @@ comments: true
 classes: wide
 author_profile: true
 share: true
+excerpt: "Online guitar tuner, audio files for each individual string, guides 
+for newcomers to the guitar & pro tips."
+header:
+  teaser: https://www.accordersaguitare.com/img/guitare-folk_300.jpg
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: https://www.accordersaguitare.com/img/guitare-folk.jpg
 slug: "index"
 ---
 
